@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:views="clr-namespace:AppCochera.Views"
+            x:Class="AppCochera.Views.AppFlyoutPage">
+
+    <!-- Definimos el menú lateral (Flyout) -->
+    <FlyoutPage.Flyout>
+        <ContentPage Title="Menú">
+            <StackLayout Padding="10">
+                <!-- Usamos CollectionView para mostrar los ítems del menú -->
+                <CollectionView x:Name="MenuItemsListView"
+                                SelectionMode="Single"
+                                ItemsSource="{Binding MenuItems}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <!-- Cada ítem del menú tendrá un ícono y texto -->
+                            <Grid Padding="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="30" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <!-- Ícono -->
+                                <Image Source="{Binding Icon}"
+                                       Grid.Column="0"
+                                       VerticalOptions="Center"
+                                       HeightRequest="24" 
+                                       WidthRequest="24"/>
+
+                                <!-- Texto del menú -->
+                                <Label Text="{Binding Title}"
+                                       Grid.Column="1"
+                                       VerticalOptions="Center"
+                                       FontSize="18"
+                                       TextColor="Black"/>
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <!-- Página de contenido (Detail) -->
+    <FlyoutPage.Detail>
+        <NavigationPage>
+            <!-- Página que se carga inicialmente -->
+            <x:Arguments>
+                <views:PaginaPrincipalPage />
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>

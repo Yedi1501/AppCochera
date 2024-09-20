@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCochera.Views.PaginaPrincipalPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="BannerCochera.png"
+                   Aspect="AspectFill"
+                   HeightRequest="150"
+                   HorizontalOptions="FillAndExpand"/>
+
+            <Grid x:Name="CardsGrid"
+                  Padding="10"
+                  RowSpacing="10"
+                  ColumnSpacing="10">
+                <!-- Definición de columnas -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <!-- Definición de filas aquí se dejarán vacías, ya que serán agregadas dinámicamente -->
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

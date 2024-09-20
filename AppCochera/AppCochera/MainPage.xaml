@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCochera.MainPage">
+
+    <StackLayout>
+        <Entry x:Name="correoEntry" Placeholder="Correo" />
+        <Entry x:Name="nombreEntry" Placeholder="Nombre" />
+        <Entry x:Name="placaEntry" Placeholder="Placa" />
+        <Entry x:Name="telefonoEntry" Placeholder="Teléfono" />
+        <Button Text="Agregar Usuario" Clicked="OnAgregarUsuarioClicked" />
+    </StackLayout>
+
+</ContentPage>

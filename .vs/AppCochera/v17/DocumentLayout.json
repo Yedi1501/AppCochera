@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yedis\\source\\repos\\AppCochera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\paginaprincipalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\paginaprincipalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\parqueopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\parqueopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\parqueopage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\parqueopage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\bienvenidapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\bienvenidapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\bienvenidapage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\bienvenidapage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\paginaprincipalpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\paginaprincipalpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\conexiones\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\conexiones\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\conexiones\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\conexiones\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\appflyoutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\appflyoutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\views\\appflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\views\\appflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE8ADA-31C1-47BB-AA53-953B05BB73FA}|AppCochera\\AppCochera.Android\\AppCochera.Android.csproj|C:\\Users\\yedis\\source\\repos\\AppCochera\\appcochera\\appcochera.android\\resources\\drawable\\cochera.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3DEE8ADA-31C1-47BB-AA53-953B05BB73FA}|AppCochera\\AppCochera.Android\\AppCochera.Android.csproj|solutionrelative:appcochera\\appcochera.android\\resources\\drawable\\cochera.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\obj\\Debug\\netstandard2.0\\Views\\BienvenidaPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppCochera\\AppCochera\\obj\\Debug\\netstandard2.0\\Views\\BienvenidaPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\appcochera.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\appcochera.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\appcochera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\appcochera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AppCochera.Android||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|c:\\users\\yedis\\source\\repos\\appcochera\\appcochera\\appcochera\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDDEA3-215F-441C-B98E-36D5FECEFF07}|AppCochera\\AppCochera\\AppCochera.csproj|solutionrelative:appcochera\\appcochera\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE8ADA-31C1-47BB-AA53-953B05BB73FA}|AppCochera\\AppCochera.Android\\AppCochera.Android.csproj|C:\\Users\\yedis\\source\\repos\\AppCochera\\appcochera\\appcochera.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{3DEE8ADA-31C1-47BB-AA53-953B05BB73FA}|AppCochera\\AppCochera.Android\\AppCochera.Android.csproj|solutionrelative:appcochera\\appcochera.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 193,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\App.xaml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\App.xaml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\App.xaml",
+              "RelativeToolTip": "AppCochera\\AppCochera\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T15:30:27.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppFlyoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:13:17.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppFlyoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\AppFlyoutPage.xaml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T06:12:33.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaPrincipalPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:54:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cochera.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [100x100, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera.Android\\Resources\\drawable\\Cochera.png",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera.Android\\Resources\\drawable\\Cochera.png",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera.Android\\Resources\\drawable\\Cochera.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [100x100, 32 bits, PNG]",
+              "RelativeToolTip": "AppCochera\\AppCochera.Android\\Resources\\drawable\\Cochera.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [100x100, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T07:46:00.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BienvenidaPage.xaml.g.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\obj\\Debug\\netstandard2.0\\Views\\BienvenidaPage.xaml.g.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\obj\\Debug\\netstandard2.0\\Views\\BienvenidaPage.xaml.g.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\obj\\Debug\\netstandard2.0\\Views\\BienvenidaPage.xaml.g.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\obj\\Debug\\netstandard2.0\\Views\\BienvenidaPage.xaml.g.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:36:33.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParqueoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\ParqueoPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\ParqueoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\ParqueoPage.xaml.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\ParqueoPage.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:21:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParqueoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\ParqueoPage.xaml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\ParqueoPage.xaml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\ParqueoPage.xaml",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\ParqueoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T03:18:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\App.xaml.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BienvenidaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAA8AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:53:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginaPrincipalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\PaginaPrincipalPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T00:53:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BienvenidaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Views\\BienvenidaPage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T00:52:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:32:06.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\MainPage.xaml",
+              "RelativeToolTip": "AppCochera\\AppCochera\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T00:31:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirebaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Conexiones\\FirebaseServices.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Conexiones\\FirebaseServices.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Conexiones\\FirebaseServices.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Conexiones\\FirebaseServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:30:38.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Conexiones\\Constantes.cs",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\Conexiones\\Constantes.cs",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\Conexiones\\Constantes.cs",
+              "RelativeToolTip": "AppCochera\\AppCochera\\Conexiones\\Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:25:02.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppCochera.csproj",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\AppCochera.csproj",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\AppCochera.csproj",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\AppCochera.csproj",
+              "RelativeToolTip": "AppCochera\\AppCochera\\AppCochera.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T00:24:07.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "AppCochera\\AppCochera.Android\\Properties\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-16T00:16:01.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppCochera.Android",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera.Android\\AppCochera.Android.csproj",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera.Android\\AppCochera.Android.csproj",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera.Android\\AppCochera.Android.csproj",
+              "RelativeToolTip": "AppCochera\\AppCochera.Android\\AppCochera.Android.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T00:09:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppCochera",
+              "DocumentMoniker": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\AppCochera.csproj",
+              "RelativeDocumentMoniker": "AppCochera\\AppCochera\\AppCochera.csproj",
+              "ToolTip": "C:\\Users\\yedis\\source\\repos\\AppCochera\\AppCochera\\AppCochera\\AppCochera.csproj",
+              "RelativeToolTip": "AppCochera\\AppCochera\\AppCochera.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T00:09:39.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

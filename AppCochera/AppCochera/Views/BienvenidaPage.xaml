@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCochera.Views.BienvenidaPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="20" VerticalOptions="Center">
+            <!-- Imagen Circular -->
+            <Image Source="Cocheraimagen.png"
+       WidthRequest="100"
+       HeightRequest="100"
+       Aspect="AspectFill"
+       HorizontalOptions="Center"
+       VerticalOptions="Center">
+                <Image.Style>
+                    <Style TargetType="Image">
+                        <Setter Property="WidthRequest" Value="200"/>
+                        <Setter Property="HeightRequest" Value="200"/>
+                    </Style>
+                </Image.Style>
+            </Image>
+
+
+            <!-- Título -->
+            <Label Text="Bienvenido a AppCochera"
+                   FontSize="24"
+                   TextColor="#252525"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   Margin="0,0,0,20"/>
+
+            <!-- Campos de entrada para el usuario -->
+            <Entry x:Name="CorreoEntry" Placeholder="Correo" 
+                   Keyboard="Email"
+                   Margin="0,0,0,10"/>
+            <Entry x:Name="NombreEntry" Placeholder="Nombre" 
+                   Margin="0,0,0,10"/>
+            <Entry x:Name="PlacaEntry" Placeholder="Placa del carro" 
+                   Margin="0,0,0,10"/>
+            <Entry x:Name="TelefonoEntry" Placeholder="Teléfono" 
+                   Keyboard="Telephone"
+                   Margin="0,0,0,20"/>
+
+            <!-- Botón -->
+            <Button Text="Agregar Usuario" 
+                    Clicked="OnAgregarUsuarioClicked"
+                    BackgroundColor="#FF0000"
+                    TextColor="White"
+                    CornerRadius="5"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
